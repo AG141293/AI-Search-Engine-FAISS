@@ -45,4 +45,4 @@ By implementing this neural search architecture, we achieved:
 ---
 
 ## 📬 Contact
-**Ankita Ghosh** *AI Professional | Pune, India* [Your LinkedIn Profile Link]
+**Ankita Ghosh** *AI Professional | Pune, India* [www.linkedin.com/in/ank1412]
